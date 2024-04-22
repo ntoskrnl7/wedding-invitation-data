@@ -1,1 +1,1 @@
-"# wedding-invitation-data" 
+# wedding-invitation-data
